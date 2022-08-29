@@ -3,9 +3,9 @@ A social web application that helps users communicate.<br/>
 Deployed App : https://react-chat-a3e29.web.app/
 
 ## Technologies Used
-React
-Firebase
-Tailwind.css
+React<br/>
+Firebase<br/>
+Tailwind.css<br/>
 
 ## How to run locally?
 Clone the repo
