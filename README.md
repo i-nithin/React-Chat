@@ -1,20 +1,20 @@
-# BREAKING BAD CHARACTERS
-A web app to explore your favourites from the series Breaking Bad.<br/>
-Deployed App : https://guileless-dieffenbachia-3a1b17.netlify.app/
+# React-Chat
+A social web application that helps users communicate.<br/>
+Deployed App : https://react-chat-a3e29.web.app/
 
 ## Technologies Used
 React
-React-Router
-Netlify
+Firebase
+Tailwind.css
 
 ## How to run locally?
 Clone the repo
 ```bash
-https://github.com/i-nithin/breaking-bad.git
+https://github.com/i-nithin/React-Chat.git
 ```
 Go to project directory
 ```bash
-cd breaking-bad
+cd React-Chat
 ```
 Install dependencies
 ```bash
@@ -26,6 +26,12 @@ npm start
 ```
 
 ## Screenshots
+###Sender side
+![Screenshot 2022-08-29 at 5 13 24 PM](https://user-images.githubusercontent.com/97078688/187193883-ab21060e-beac-4929-b294-d8c340bd65e5.png)
+###Reciever side
+![Screenshot 2022-08-29 at 5 14 40 PM](https://user-images.githubusercontent.com/97078688/187193926-438e0d37-60a5-41f1-afff-f40578da616d.png)
+
+
 
 
 
